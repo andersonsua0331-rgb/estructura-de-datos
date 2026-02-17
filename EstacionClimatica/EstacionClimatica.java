@@ -1,4 +1,4 @@
-package EstacionClimatic;
+package EstacionClimatica;
 
 public class EstacionClimatica{
     public static void main(String[] args) {

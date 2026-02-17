@@ -1,5 +1,5 @@
-package NormalizadorID;
-public class  NormalizadorID {
+package NormalizadorId;
+public class  normalizadorID {
     public static void main(String[] args) {
     String idSucio = " User_123 ";
 
